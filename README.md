@@ -6,6 +6,7 @@
 - 🎮 Favourite Games: Fable, Civilization, Okami, Witcher 3, Diablo 
 - ⚡ Fun fact: I had a brief stint as a competitive eater and defeated the #DarkSoulsWings Challenge in under 10 minutes
 - 🎹 I play the piano in my free time
+- Bilingual 🇬🇧 🇨🇳 living in 🇬🇧
 <!--
 **spiderlili/spiderlili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
