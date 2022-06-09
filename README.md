@@ -3,6 +3,7 @@
 - ✨ I love to make VFX and animations
 - 😄 Pronouns: She/Her/They
 - 🌱 I’m currently learning rigging and Maya's Python & C++ APIs
+- 🎮 Favourite Games: Fable, Civilization, Okami, Witcher 3, Diablo 
 - ⚡ Fun fact: I had a brief stint as a competitive eater and defeated the #DarkSoulsWings Challenge in under 10 minutes
 - 🎹 I play the piano in my free time
 <!--
