@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jing
 - 👩🏻‍💻 Technical Artist / Game Developer with a focus on shaders, graphics programming, tools, Houdini, C#, Unity and Unreal
 - ✨ I also love to make VFX and animations
-- 😄 Pronouns: She/Her/They
+- 😄 Pronouns: She / Her / They
 - 🇬🇧 🇨🇳 Bilingual 
 - 🌱 I’m currently learning rigging and Maya's Python & C++ APIs
 - 🎮 Favourite Games: Fable, Civilization, Okami, Witcher 3, Diablo 
