@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Jing!
-- 👩🏻‍💻 Technical Artist / Game Developer with a focus on shaders, graphics programming, tools, Houdini, C#, Unity and Unreal
+- 👩🏻‍💻 Technical Artist / Game Developer with a focus on shaders, tools, Houdini, C#, Unity and Unreal
 - ✨ I also love to make VFX and animations
 - 😄 Pronouns: She / They
 - 🇬🇧 🇨🇳 Bilingual 
