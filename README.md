@@ -4,7 +4,7 @@
 - 😄 Pronouns: She / They
 - 🇬🇧 🇨🇳 Bilingual 
 - 🌱 I’m currently learning character rigging and Maya's Python APIs
-- 🎮 Favourite Games: Fable, Civilization, Okami, Witcher 3, Diablo 
+- 🎮 Favourite Games: Fable 2, Civilization 6, Okami, Witcher 3, Diablo 3
 - ⚡ Fun fact: I had a brief stint as a competitive eater and defeated the #DarkSoulsWings Challenge in under 10 minutes
 - 🎹 I play the piano in my free time
 
