@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning character rigging and Houdini 
 - 🎮 Favourite Games: Fable 2, Civilization 6, Okami, Witcher 3, Diablo 3
 - ⚡ Fun fact: I had a brief stint as a competitive eater and defeated the #DarkSoulsWings Challenge within 10 minutes
-- 🎹 🥋 I play the piano and train in BJJ in my free time
+- 🎹 🥋 I play the piano and train BJJ in my free time
 
 <!--
 **spiderlili/spiderlili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
